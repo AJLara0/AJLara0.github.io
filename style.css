@@ -1,0 +1,11 @@
+body{
+    background-color: purple;
+}
+.test1 {
+    color: red;
+}
+
+img {
+    border-radius: 8px;
+    width: 150px;
+}
